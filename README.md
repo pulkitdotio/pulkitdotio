@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,75:0d47a1,100:1f6feb&height=210&section=header&text=Pulkit%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descColor=ffffff&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:374151&height=210&section=header&text=Pulkit%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descColor=ffffff&descSize=18"
   width="100%"
   alt="Pulkit Sharma"
 />
@@ -14,23 +14,22 @@
 <br/>
 
 <a href="https://twitter.com/pulkitdotdev">
-  <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-Follow-3A3A3A?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter"/>
 </a>
 &nbsp;
 <a href="mailto:pulkit1865@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Mail-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/pulkit-sharma-691909384">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-3A3A3A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=022d7d" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-India-161b22?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-India-0A66C2?style=flat-square&labelColor=555555" alt="Location"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=pulkitdotio&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
+<img src="https://komarev.com/ghpvc/?username=pulkitdotio&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
@@ -107,15 +106,15 @@ I'm a **Full-Stack Developer** interested in building modern web applications an
 <div align="center">
 
 <a href="https://twitter.com/pulkitdotdev">
-  <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-Follow-3A3A3A?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter"/>
 </a>
 &nbsp;
 <a href="mailto:pulkit1865@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Mail-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/pulkit-sharma-691909384">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-3A3A3A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=022d7d" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -127,7 +126,7 @@ I'm a **Full-Stack Developer** interested in building modern web applications an
 **Building, learning, and improving one system at a time.**
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,55:161b22,100:0d1117&height=120&section=footer&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:374151&height=120&section=footer&animation=fadeIn"
   width="100%"
   alt="Footer"
 />
