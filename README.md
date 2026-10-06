@@ -13,8 +13,8 @@
 
 <br/>
 
-<a href="https://twitter.com/pulkitdotdev">
-  <img src="https://img.shields.io/badge/Twitter-Follow-3A3A3A?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter"/>
+<a href="https://pulkitdotspace.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-3A3A3A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="mailto:pulkit1865@gmail.com">
@@ -105,8 +105,8 @@ I'm a **Full-Stack Developer** interested in building modern web applications an
 
 <div align="center">
 
-<a href="https://twitter.com/pulkitdotdev">
-  <img src="https://img.shields.io/badge/Twitter-Follow-3A3A3A?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter"/>
+<a href="https://pulkitdotspace.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-3A3A3A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="mailto:pulkit1865@gmail.com">
