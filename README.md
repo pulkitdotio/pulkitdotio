@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:374151&height=210&section=header&text=Pulkit%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descColor=ffffff&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:374151&height=210&section=header&text=Pulkit%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Product%20Engineer&descAlignY=60&descColor=ffffff&descSize=18"
   width="100%"
   alt="Pulkit Sharma"
 />
