@@ -100,24 +100,6 @@
 
 ---
 
-## 🏙️ 3D Contribution Tower
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Pulkit's GitHub 3D Contribution Tower"
-    width="100%"
-  >
-</picture>
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
