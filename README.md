@@ -36,13 +36,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** interested in building modern web applications and understanding how scalable systems work behind the scenes.
 
-- 💻 Focused on **Full-Stack and Backend Development**
-- 🌱 Currently learning **System Design** and **Advanced Backend Development**
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**
-- ⚙️ Interested in **APIs, databases, scalable architectures, and backend systems**
-- 📫 Reach me at **[pulkit1865@gmail.com](mailto:pulkit1865@gmail.com)**
+- I'm a **<u>Full Stack Developer</u>** focused on modern web applications, backend systems, and practical AI-powered products.
+- I build products end to end with **<u>React, Next.js, TypeScript, and Node.js</u>**, from data and API design to the interface people use.
+- On the backend, I work with **<u>Express, MongoDB, PostgreSQL, Supabase, Redis, and APIs</u>** with a focus on clear architecture, validation, correctness, and predictable failures.
+- I use projects to explore system design, scalability, backend systems, and failure behavior. I’m currently learning System Design and Advanced Backend Development.
+
 
 ---
 
