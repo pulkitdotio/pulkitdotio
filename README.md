@@ -34,16 +34,93 @@
 
 ---
 
+
+
 ## 👨‍💻 About Me
 
+- I'm a **Full Stack Developer** focused on building modern web applications, scalable backend systems, and practical **AI-powered products**.
 
-- I'm a **<u>Full Stack Developer</u>** focused on modern web applications, backend systems, and practical AI-powered products.
-- I build products end to end with **<u>React, Next.js, TypeScript, and Node.js</u>**, from data and API design to the interface people use.
-- On the backend, I work with **<u>Express, MongoDB, PostgreSQL, Supabase, Redis, and APIs</u>** with a focus on clear architecture, validation, correctness, and predictable failures.
-- I use projects to explore system design, scalability, backend systems, and failure behavior. I’m currently learning System Design and Advanced Backend Development.
+- I build products end to end using **React, Next.js, TypeScript, and Node.js**, covering everything from database design and APIs to responsive, user-friendly interfaces.
+
+- On the backend, I work with **Express, MongoDB, PostgreSQL, Supabase, and Redis**, focusing on clean architecture, API design, validation, reliability, and predictable failure handling.
+
+- I enjoy exploring **system design, scalability, backend architecture, and real-world failure scenarios** through hands-on projects. Currently, I'm deepening my knowledge of **System Design and Advanced Backend Development**.
+
+
 
 
 ---
+
+
+
+## What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Product Development</h3>
+      <ul>
+        <li>
+          Building intelligent, AI-powered applications
+          with intuitive and interactive user experiences.
+        </li>
+        <li>
+          Integrating AI models, LLMs, and AI APIs
+          into modern full-stack web applications.
+        </li>
+        <li>
+          Exploring prompt engineering, structured
+          outputs, and context-aware AI interactions.
+        </li>
+        <li>
+          Designing AI-driven workflows that connect
+          intelligent services with backend systems.
+        </li>
+        <li>
+          Exploring automation and intelligent features
+          to simplify complex, repetitive processes.
+        </li>
+        <li>
+          Focusing on reliable AI integrations,
+          input validation, error handling, and
+          predictable application behavior.
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Backend Engineering</h3>
+      <ul>
+        <li>
+          Developing RESTful APIs and server-side
+          applications using Node.js and Express.
+        </li>
+        <li>
+          Designing database schemas, data models,
+          and efficient queries with PostgreSQL,
+          MongoDB, and Supabase.
+        </li>
+        <li>
+          Exploring Redis caching strategies,
+          performance optimization, and efficient
+          data retrieval techniques.
+        </li>
+        <li>
+          Implementing input validation, structured
+          error handling, and predictable API responses.
+        </li>
+        <li>
+          Understanding authentication, authorization,
+          and secure backend development practices.
+        </li>
+        <li>
+          Exploring scalability, system reliability,
+          database performance, and failure handling.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Statistics
 
@@ -53,6 +130,17 @@
   src="https://streak-stats.demolab.com?user=pulkitdotio&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
   alt="Pulkit Sharma GitHub Statistics"
 />
+
+
+
+<br/>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=pulkitdotio&layout=compact&theme=dark_github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&card_width=400"
+  alt="Pulkit Sharma Most Used Languages"
+/>
+
+
 
 </div>
 
