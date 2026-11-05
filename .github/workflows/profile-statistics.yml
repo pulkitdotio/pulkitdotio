@@ -1,0 +1,55 @@
+name: Update profile statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+  push:
+    paths:
+      - ".github/workflows/profile-statistics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-statistics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate top languages card locally
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=pulkitdotio&layout=compact&theme=dark_github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&card_width=400'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Cache streak card when its upstream is healthy
+        shell: bash
+        run: |
+          mkdir -p profile
+          if curl --fail --location --silent --show-error --retry 2 --connect-timeout 10 --max-time 45 \
+            'https://streak-stats.demolab.com?user=pulkitdotio&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF' \
+            -o /tmp/profile-streak.svg \
+            && grep -qi '<svg' /tmp/profile-streak.svg \
+            && ! grep -Eqi 'Something went wrong|Error fetching|Maximum retries exceeded|rate limit exceeded|403 Forbidden' /tmp/profile-streak.svg; then
+            cp /tmp/profile-streak.svg profile/streak.svg
+          else
+            echo "Streak service unavailable or returned an error; preserving the previous local file."
+          fi
+
+      - name: Commit refreshed cards (only when changed)
+        shell: bash
+        run: |
+          git add profile/*.svg
+          if git diff --cached --quiet; then
+            echo "Stats have not changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh cached profile statistics"
+          git push
