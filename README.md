@@ -124,10 +124,12 @@
 
 ## 📊 GitHub Statistics
 
+<!-- Updated daily by .github/workflows/profile-statistics.yml; images live on the profile-stats branch. -->
+
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=pulkitdotio&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  src="https://raw.githubusercontent.com/pulkitdotio/pulkitdotio/profile-stats/profile/streak.svg"
   alt="Pulkit Sharma GitHub Statistics"
 />
 
@@ -136,7 +138,7 @@
 <br/>
 
 <img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=pulkitdotio&layout=compact&theme=dark_github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&card_width=400"
+  src="https://raw.githubusercontent.com/pulkitdotio/pulkitdotio/profile-stats/profile/top-langs.svg"
   alt="Pulkit Sharma Most Used Languages"
 />
 
