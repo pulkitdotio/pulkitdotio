@@ -43,6 +43,13 @@ jobs:
             echo "Streak service unavailable or returned an error; preserving the previous local file."
           fi
 
+      - name: Archive generated SVGs
+        uses: actions/upload-artifact@v4
+        with:
+          name: profile-statistics
+          path: profile/*.svg
+          if-no-files-found: error
+
       - name: Commit refreshed cards (only when changed)
         shell: bash
         run: |
@@ -54,4 +61,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: refresh cached profile statistics"
-          git push origin HEAD:profile-stats
+          if ! git push origin HEAD:profile-stats; then
+            echo "Automated GitHub push was rejected. Generated cards are saved as a workflow artifact."
+          fi
